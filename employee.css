@@ -1,0 +1,13 @@
+.page {
+    width: 60%;
+    margin: 10% auto;
+}
+
+.register {
+    width: 100%;
+    margin-bottom: 10%;
+    background-color: #007bff;
+    border-color: #007bff;
+    text-align: center;
+    color: white;
+}
